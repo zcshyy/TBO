@@ -32,5 +32,6 @@ local whitelist = {
     "4930256651", -- luckyy_winer97
     "1786837731", -- IIIRedLightIII
     "1179792626", -- Mycat_a
+    "4018229014", -- ua_jd
 }
 return whitelist
