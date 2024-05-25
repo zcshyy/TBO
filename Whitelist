@@ -33,6 +33,7 @@ local whitelist = {
     "1786837731", -- IIIRedLightIII
     "1179792626", -- Mycat_a
     "4018229014", -- ua_jd
-    "1709208639", -- ua_jd
+    "1709208639", -- ThePrensOreo
+    "192897920", -- tunavearda
 }
 return whitelist
