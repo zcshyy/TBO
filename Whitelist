@@ -35,5 +35,6 @@ local whitelist = {
     "4018229014", -- ua_jd
     "1709208639", -- ThePrensOreo
     "192897920", -- tunavearda
+    "1288256567", -- panda
 }
 return whitelist
