@@ -37,6 +37,5 @@ local whitelist = {
     "192897920", -- tunavearda
     "1288256567", -- panda
     "4934700495", -- IIIRedLightIII alt
-    "4062206554", -- ozfischls
 }
 return whitelist
