@@ -40,5 +40,6 @@ local whitelist = {
     "1990917180", -- tunavearda stand alt
     "4027705440", -- ua_pu
     "1594152894", -- Admin111111112212
+"2278245873", --TC_KILLERBRO
 }
 return whitelist
