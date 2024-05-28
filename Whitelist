@@ -39,5 +39,6 @@ local whitelist = {
     "4934700495", -- IIIRedLightIII alt
     "1990917180", -- tunavearda stand alt
     "4027705440", -- ua_pu
+    "1594152894", -- Admin111111112212
 }
 return whitelist
