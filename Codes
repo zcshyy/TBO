@@ -1,11 +1,7 @@
 local codes = {
-    "DRUMSHOTGUN";
-    "TRADEME!";
-    "HALLOWEEN2023"; -- how does this still work 😭
-    "MILITARY";
-    "DAUP";
-    "MELONBEAR";
-    "pumpkins2023";
-    "APRIL2024";
+    "MOTHERSDAY2024";
+    "CROW";
+    "RUBY";
     "HOUSES";
+    "MILITARY";
 }
