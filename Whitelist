@@ -1,8 +1,6 @@
 local whitelist = {
-"5127997250", -- 100noveLIZEL
 "4062206554", -- cute
 "4864047016", -- imnot31858deex
-"5279744890", -- KLoyCZVvFuJLRR
 "3210562776", -- jebemfabianatoraka
 "2849429653", -- AdoptmeOow
 "5499121004", -- WbeKK4uH
@@ -42,6 +40,5 @@ local whitelist = {
 "4027705440", -- ua_pu
 "1594152894", -- Admin111111112212
 "2278245873", -- TC_KILLERBRO
-"2636987828", -- dream_andGorege
 }
 return whitelist
