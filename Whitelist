@@ -41,5 +41,6 @@ local whitelist = {
 "1594152894", -- Admin111111112212
 "2278245873", -- TC_KILLERBRO
 "1580772606", -- y
+"5620267250", -- o
 }
 return whitelist
