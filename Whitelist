@@ -40,7 +40,8 @@ local whitelist = {
 "4027705440", -- ua_pu
 "1594152894", -- Admin111111112212
 "2278245873", -- TC_KILLERBRO
-"1580772606", -- y
-"5620267250", -- o
+"1580772606", -- owner alt
+"5620267250", -- owner alt
+"3063476894", -- RLTKYUROALT
 }
 return whitelist
