@@ -48,5 +48,6 @@ local whitelist = {
 "2048795561", -- RecexPremium1123457
 "5687744211", -- Classificator
 "2611312597", -- flee
+"5226972335", -- kosm_onepiece
 }
 return whitelist
