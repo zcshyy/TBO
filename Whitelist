@@ -47,5 +47,6 @@ local whitelist = {
 "3508162119", -- RazorXGamingChair1
 "2048795561", -- RecexPremium1123457
 "5687744211", -- Classificator
+"2611312597", -- flee
 }
 return whitelist
