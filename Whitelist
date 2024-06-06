@@ -46,5 +46,6 @@ local whitelist = {
 "1580772606", -- owner alt
 "5620267250", -- owner alt
 "3063476894", -- RLTKYUROALT
+"5687744211", -- Classificator
 }
 return whitelist
