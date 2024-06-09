@@ -50,5 +50,6 @@ local whitelist = {
 "5687744211", -- Classificator
 "2611312597", -- flee
 "5226972335", -- kosm_onepiece
+"5367194780", -- Tearboi5
 }
 return whitelist
