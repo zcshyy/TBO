@@ -52,5 +52,6 @@ local whitelist = {
 "5226972335", -- kosm_onepiece
 "5367194780", -- Tearboi5
 "1204165041", -- anelbektad1
+"3299254615", -- Somalmaninus
 }
 return whitelist
