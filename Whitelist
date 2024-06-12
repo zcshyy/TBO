@@ -55,5 +55,6 @@ local whitelist = {
 "3299254615", -- Somalmaninus
 "2311616378", -- Rudi1228
 "137047", -- Leilanime1
+"1517755504", -- Neverlaggy
 }
 return whitelist
