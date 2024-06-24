@@ -2,14 +2,14 @@ local CoreGui = game:GetService("StarterGui")
 CoreGui:SetCore("SendNotification", {
 Title = "Warning",
 Text = "You are not using the latest version",
-Duration = 5,
+Duration = 7,
 Button1 = "Okay!",
 })
 
 CoreGui:SetCore("SendNotification", {
 Title = "Notifcation",
 Text = "TBO discord server has been copied to your clipboard",
-Duration = 5,
+Duration = 7,
 Button1 = "Okay!",
 })
 
